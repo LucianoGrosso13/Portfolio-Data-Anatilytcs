@@ -1,0 +1,113 @@
+local,visitante,fecha
+Sarmiento (J),Ind Rivadavia,20
+Estudiantes (LP),Independiente,20
+Central Cba (SdE),San Lorenzo,20
+Huracan,Gimnasia (LP),20
+Rosario Central,Barracas Central,20
+Godoy Cruz,Atl Tucuman,20
+Riestra,Talleres (C),20
+River Plate,Banfield,20
+Belgrano,Def y Justicia,20
+Union,Newells,20
+Argentinos,Velez,20
+Tigre,Platense,20
+Racing Club,Instituto,20
+Lanus,Boca Juniors,20
+Atl Tucuman,Sarmiento (J),21
+San Lorenzo,Estudiantes (LP),21
+Gimnasia (LP),Central Cba (SdE),21
+Ind Rivadavia,Rosario Central,21
+Barracas Central,Racing Club,21
+Banfield,Belgrano,21
+Boca Juniors,Godoy Cruz,21
+Newells,Huracan,21
+Independiente,Union,21
+Talleres (C),Lanus,21
+Def y Justicia,Argentinos,21
+Instituto,River Plate,21
+Platense,Riestra,21
+Velez,Tigre,21
+Belgrano,Instituto,22
+Godoy Cruz,Talleres (C),22
+Racing Club,Ind Rivadavia,22
+Riestra,Velez,22
+Tigre,Def y Justicia,22
+Rosario Central,San Lorenzo,22
+River Plate,Barracas Central,22
+Huracan,Independiente,22
+Argentinos,Banfield,22
+Gimnasia (LP),Newells,22
+Sarmiento (J),Boca Juniors,22
+Central Cba (SdE),Estudiantes (LP),22
+Union,Atl Tucuman,22
+Lanus,Platense,22
+Boca Juniors,Union,23
+Velez,Lanus,23
+Def y Justicia,Riestra,23
+Independiente,Gimnasia (LP),23
+Talleres (C),Sarmiento (J),23
+Atl Tucuman,Huracan,23
+Newells,Central Cba (SdE),23
+Instituto,Argentinos,23
+Platense,Godoy Cruz,23
+San Lorenzo,Racing Club,23
+Banfield,Tigre,23
+Ind Rivadavia,River Plate,23
+Estudiantes (LP),Rosario Central,23
+Barracas Central,Belgrano,23
+Godoy Cruz,Velez,24
+Central Cba (SdE),Rosario Central,24
+Belgrano,Ind Rivadavia,24
+Huracan,Boca Juniors,24
+Tigre,Instituto,24
+River Plate,San Lorenzo,24
+Newells,Independiente,24
+Argentinos,Barracas Central,24
+Riestra,Banfield,24
+Lanus,Def y Justicia,24
+Gimnasia (LP),Atl Tucuman,24
+Union,Talleres (C),24
+Sarmiento (J),Platense,24
+Racing Club,Estudiantes (LP),24
+Rosario Central,Racing Club,25
+Def y Justicia,Godoy Cruz,25
+Independiente,Central Cba (SdE),25
+San Lorenzo,Belgrano,25
+Estudiantes (LP),River Plate,25
+Platense,Union,25
+Atl Tucuman,Newells,25
+Instituto,Riestra,25
+Boca Juniors,Gimnasia (LP),25
+Banfield,Lanus,25
+Ind Rivadavia,Argentinos,25
+Velez,Sarmiento (J),25
+Talleres (C),Huracan,25
+Barracas Central,Tigre,25
+Union,Velez,26
+Argentinos,San Lorenzo,26
+Belgrano,Estudiantes (LP),26
+Independiente,Atl Tucuman,26
+Newells,Boca Juniors,26
+Sarmiento (J),Def y Justicia,26
+Godoy Cruz,Banfield,26
+Lanus,Instituto,26
+River Plate,Rosario Central,26
+Huracan,Platense,26
+Riestra,Barracas Central,26
+Gimnasia (LP),Talleres (C),26
+Central Cba (SdE),Racing Club,26
+Tigre,Ind Rivadavia,26
+Talleres (C),Newells,27
+Barracas Central,Lanus,27
+Def y Justicia,Union,27
+Ind Rivadavia,Riestra,27
+Atl Tucuman,Central Cba (SdE),27
+Racing Club,River Plate,27
+Velez,Huracan,27
+San Lorenzo,Tigre,27
+Platense,Gimnasia (LP),27
+Rosario Central,Belgrano,27
+Banfield,Sarmiento (J),27
+Estudiantes (LP),Argentinos,27
+Boca Juniors,Independiente,27
+Instituto,Godoy Cruz,27
